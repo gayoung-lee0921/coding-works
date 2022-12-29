@@ -1,0 +1,11 @@
+h1 {
+  color: green !important;
+}
+
+.text {
+  color: blue;
+}
+
+#text {
+  color: yellow;
+}

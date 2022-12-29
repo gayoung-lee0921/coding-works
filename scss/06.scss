@@ -1,0 +1,11 @@
+.box {
+  border: 1px solid #111;
+  width: 600px;
+  display: flex;
+  div {
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,27 @@
+// float로 가로배치
+//section {
+//   width: 600px;
+//   border: 5px solid black;
+//   overflow: hidden;
+//   article {
+//     float: left;
+//     background-color: gold;
+//     width: 200px;
+//     height: 100px;
+//     border: 1px solid red;
+//     box-sizing: border-box;
+//   }
+// }
+
+section {
+  width: 700px;
+  border: 5px solid black;
+  text-align: center;
+  article {
+    background-color: gold;
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+  }
+}
